@@ -1,0 +1,15 @@
+body{
+  background:#f0f2f5;
+  text-align:center;
+}
+
+textarea{
+  width:60%;
+  height:120px;
+}
+
+button{
+  background:#4CAF50;
+  color:white;
+  padding:10px;
+}
