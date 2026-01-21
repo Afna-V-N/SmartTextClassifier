@@ -1,0 +1,22 @@
+# Ignore trained model
+business_classifier_model/
+
+# Ignore large binary files
+*.h5
+*.ckpt
+
+# Ignore generated metrics
+metrics.json
+static/cm.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (if any)
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
